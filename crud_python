@@ -151,3 +151,14 @@ class App(tk.Tk):
             self.varResultado.set("Erro!!")
             self.lblResultado.configure(background="#ff0000")
 
+
+
+
+
+
+
+    
+    
+if __name__ == "__main__":
+    app = App()
+    app.mainloop()
